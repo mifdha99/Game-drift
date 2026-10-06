@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project Drift</string>
+    <string name="hud_speed_unit">KM/H</string>
+    <string name="hud_gear_label">GEAR</string>
+    <string name="hud_angle_label">ANGLE</string>
+    <string name="hud_score_label">SCORE</string>
+    <string name="hud_combo_label">COMBO</string>
+    <string name="btn_play">DRIVE</string>
+    <string name="btn_garage">GARAGE</string>
+    <string name="btn_settings">SETTINGS</string>
+    <string name="btn_debug">DEBUG</string>
+    <string name="btn_camera">CAM</string>
+    <string name="btn_reset">RESET</string>
+    <string name="btn_handbrake">E-BRAKE</string>
+    <string name="btn_throttle">THROTTLE</string>
+    <string name="btn_brake">BRAKE</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Project Drift",
+  "description": "Original 3D Japanese street drifting simulator with realistic RWD vehicle dynamics, touge & industrial dock track, live scoring, and 3D garage tuning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
